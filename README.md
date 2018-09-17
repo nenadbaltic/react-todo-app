@@ -10,5 +10,5 @@ Classic to-do app I built as a part of [The Complete React Web Developer Course 
 - Delete all to-do items
 - Clicking "What should I do?" button selects a random to-do item to display in a modal
 
-## Screenshot
+## Screenshot:
 ![](public/images/react-todo.jpg)
